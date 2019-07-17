@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  localization
+
+  Created by 大豌豆 on 18/1/17.
+  Copyright © 2018年 大碗豆. All rights reserved.
+*/
+CFBundleDisplayName = "简体英文名称";
